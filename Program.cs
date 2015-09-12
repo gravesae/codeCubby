@@ -6,6 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Grade: 10/10 Great job!
 public class Arithmetic
 {
     //main method begins execution of C# application
